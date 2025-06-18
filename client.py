@@ -1,5 +1,4 @@
 import socket
-
 s = socket.socket()
 host = input(str('Enter hostname or host IP : '))
 port = 8080
